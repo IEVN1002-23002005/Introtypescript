@@ -2,7 +2,8 @@ import './style.css'
 import './ts/01-tipobass'
 import './ts/02-obj-interfaz-arre'
 import './ts/03-funciones'
-
+import './ts/04-desestructuracion-obj-arre'
+import './ts/05-desestructuracion-funcion'
 
 
 import heroImg from './assets/hero.png'
